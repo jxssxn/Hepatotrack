@@ -1,0 +1,5 @@
+{
+  "name": "HepatoTrack Research",
+  "description": "Una plataforma de investigación médica para el seguimiento longitudinal de pacientes con hepatopatías, integrando datos clínicos, de laboratorio y elastografía con análisis de IA.",
+  "requestFramePermissions": []
+}
